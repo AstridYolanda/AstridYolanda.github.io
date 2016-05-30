@@ -1,5 +1,5 @@
 # Site
-title:              Moon
+title:             Astrid Yolanda
 bio:                'Minimal, one column jekyll theme.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
@@ -37,14 +37,15 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github:             username
+uin:                uin-suska.ac.id
+sif:                sif.uin-suska.ac.id
+email:              astrid.yolanda19@gmail.com
+facebook:           astrid geum
+github:             astridyolanda
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          astrid_geum
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
