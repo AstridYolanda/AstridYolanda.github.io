@@ -2,7 +2,7 @@
     
 ######(If you like this theme or using it, please give a :star: for motivation.)
 
-
+**[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 ## fact
 * Nama Astrid Yolanda
 * lahir di duri pada tanggal 19 juli 1996
