@@ -2,19 +2,18 @@
     
 ######(If you like this theme or using it, please give a :star: for motivation.)
 
-**[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## fact
+* Nama Astrid Yolanda
+* lahir di duri pada tanggal 19 juli 1996
+* enggak suka matematika 
+* nulis pakai tangan kiri
+* suka nonton anime,drama korea,film barat dll
+* pemalas
+* suka main game
+* cita-cita pertama pengen jadi pilot 
+* suka baca novel thriller
+* insomnia
 
 ## Preview
 
