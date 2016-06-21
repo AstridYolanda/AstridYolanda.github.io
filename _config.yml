@@ -4,7 +4,7 @@ bio:                Collage Student <a href="http://sif.uin-suska.ac.id">Informa
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'anime girl at desk a bit unsure.jpg'
+logo:               'astrid.jpg'
 background:         'tumblr_npqfvsxTXR1tf05g8o1_1280.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
