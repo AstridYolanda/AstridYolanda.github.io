@@ -7,17 +7,7 @@ date: 2016-03-21
     
 <center><a href="http://astridyolanda.github.io/"><b>Astrid Yolanda</b>, its my name. Lahir di Duri 19 07 1996, suka anime,korea dan suka makan hehe..and the last i'm lefthanded </a> .</center>
 
-## About Me
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+
 
 ## Preview
 
@@ -27,10 +17,8 @@ date: 2016-03-21
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+See a [live version of Psychomen](http://astridyolanda.github.io/) hosted on GitHub.
 
-## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Install Psychomen](https://github.com/astridyolanda/){: .btn}
