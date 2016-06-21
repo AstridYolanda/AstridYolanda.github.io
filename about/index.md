@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About the Theme
+title: About MySelf
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://astridyolanda.github.io/"><b>Astrid Yolanda</b>, its my name. Lahir di Duri 19 07 1996, suka anime,korea dan suka makan hehe..and the last i'm lefthanded </a> .</center>
 
 ## About Me
 * Minimal, you can focus on your content
