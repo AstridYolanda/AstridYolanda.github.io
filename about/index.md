@@ -11,11 +11,13 @@ date: 2016-03-21
 
 ## Preview
 
-{% capture images %}
-    2015-12-23-13-32-23-253.jpg
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+<section class="spotlight">
+							<div class="image"><img src="2015-12-23-13-32-23-253.jpg" alt="" /></div><div class="content">
+								<h2>Astrid Yolanda<br />
+								 11453205630</h2>
+								<p>Inspektur of Public Safety Bureau.</p>
+							</div>
+</section>
 
 See a [live version of Psychomen](http://astridyolanda.github.io/) hosted on GitHub.
 
