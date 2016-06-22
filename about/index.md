@@ -7,9 +7,9 @@ date: 2016-03-21
     
 <center><a href="http://astridyolanda.github.io/"><b>Astrid Yolanda</b>, its my name. Lahir di Duri 19 07 1996, suka anime,korea dan suka makan hehe..and the last i'm lefthanded </a> .</center>
 <ul class="icons major">
-								<p>501-psycho</p>
+								<p>Instrument</p>
 								<audio controls="controls">
-								<source src="101-psycho-pass.mp3" type="audio/mpeg"/>
+								<source src="Sad Piano Love Song Instrumental Music - 'First Love' 2015.mp3" type="audio/mpeg"/>
 								</audio>
 							</ul>
 
