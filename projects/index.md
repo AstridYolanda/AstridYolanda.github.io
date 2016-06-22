@@ -1,5 +1,83 @@
 ---
-layout: project
-title: All Projects
-excerpt: "A List of Projects"
+layout: landing
 ---
+<html manifest="cache.manifest"></html>
+				<!-- Banner -->
+				
+					<section id="banner">
+						<div class="inner">
+							<h2>{{ site.title }}</h2>
+							<p>{{ site.description | markdownify }}</p>
+							
+						</div>
+						<a href="#one" class="more scrolly">Learn More</a>
+					</section>
+				<!-- One -->
+					<section id="one" class="wrapper style1 special">
+						<div class="inner">
+							<header class="major">
+								<h2>welcome to github pages Psychomen</h2>
+								
+							
+								
+ 								<p>The Ministry of Welfare Public Safety Bureaut-Criminal Investigation Department.</p>
+ 							        <p>Github pages ini kami buat untuk memenuhi tugas pada mata kuliah Aplikasi mobile. Didalam github
+ 								pages ini terdapat multimedia berupa mp3. selain itu pada github pages ini juga terdapat cache manifest </p>
+ 							
+ 								
+							<ul class="icons major">
+								<p>501-psycho</p>
+								<audio controls="controls">
+								<source src="101-psycho-pass.mp3" type="audio/mpeg"/>
+								</audio>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+						<section class="spotlight">
+							<div class="image"><img src="animecodex-network-psycho.jpg" alt="" /></div><div class="content">
+								<h2>Psychomen<br />
+								Mahasiswa Uin Suska Riau-Fakultas Sains dan Teknologi-Jurusan Sistem Informasi</h2>
+								<p>Kami adalah kelompok kelas APPLICATION MOBILE yang beranggotakan 5 orang yaitu Ade Tiara Putri, Astrid Yolanda, Alex Swandi, Faris Nazari, Dan Suci Maisaroh. Kelompok kami bertemakan Psycho-pass anime action dan Cyberpunk maka dari itu kelompok kami bernama Psychomen</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="Astrid.jpg" alt="" /></div><div class="content">
+								<h2>Astrid Yolanda<br />
+								 11453205630</h2>
+								<p>Inspektur of Public Safety Bureau.</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="adetiara.jpg" alt="" /></div><div class="content">
+								<h2>Ade Tiara Putri<br />
+								114532011818</h2>
+								<p>Satu-satunya Enforcer perempuan di Unit 1 dengan sebutan Hound 2.</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="lex.jpg" alt="" /></div><div class="content">
+								<h2>Alex Swandi<br />
+								11453101651</h2>
+								<p>Enforcer di Unit 1 dengan sebutan Hound 3 (Enforcer terkuat).</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="faris.jpg" alt="" /></div><div class="content">
+								<h2>Faris Nazari<br />
+								11453101750</h2>
+								<p>Anggota Enforcer termuda di Unit 1 dengan sebutan Hound 4.</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="Suci.jpg" alt="" /></div><div class="content">
+								<h2>Suci Maisaroh<br />
+								11453205231</h2>
+								<p>Seorang analis komputer.</p>
+							</div>
+						</section>
+					</section>
+
+
