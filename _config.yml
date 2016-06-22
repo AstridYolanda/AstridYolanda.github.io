@@ -9,12 +9,7 @@ background:         'tumblr_npqfvsxTXR1tf05g8o1_1280.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://astridyolanda.github.io
- <html>
-<p>Instrument</p>
-<audio controls="controls">
-<source src="Sad Piano Love Song Instrumental Music - 'First Love' 2015.mp3" type="audio/mpeg"/>
-</audio>
-</html> 
+mp3 :               Sad Piano Love Song Instrumental Music - 'First Love' 2015.mp3
 
 # Jekyll
 permalink:          /:title/
